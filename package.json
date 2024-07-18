@@ -7,7 +7,7 @@
     "dev": "pnpm --filter @sg-design/play dev",
     "docs:dev": "pnpm --filter @sg-design/docs dev",
     "docs:build": "pnpm --filter @sg-design/docs build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"todo\""
   },
   "keywords": [],
   "author": "",
